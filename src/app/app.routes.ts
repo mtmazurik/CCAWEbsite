@@ -2,7 +2,7 @@ import { Routes } from '@angular/router';
 import { IndexOneComponent } from './pages/index-one/index-one.component';
 import { AboutusComponent } from './pages/aboutus/aboutus.component';
 import { ServicesComponent } from './pages/services/services.component';
-import { PricingComponent } from './pages/pricing/pricing.component';
+/*import { PricingComponent } from './pages/pricing/pricing.component';*/
 import { TeamComponent } from './pages/team/team.component';
 import { BlogsComponent } from './pages/blogs/blogs.component';
 import { ContactusComponent } from './pages/contactus/contactus.component';
@@ -22,7 +22,7 @@ export const routes: Routes = [
 
     {path:'aboutus', component:AboutusComponent},
     {path:'services', component:ServicesComponent},
-    {path:'pricing', component:PricingComponent},
+/*    {path:'pricing', component:PricingComponent},*/
     {path:'team', component:TeamComponent},
     {path:'blogs', component:BlogsComponent },
     {path:'blog-detail', component:BlogDetailComponent },
