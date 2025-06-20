@@ -1,33 +1,33 @@
 export const servicesData = [
     {
         icon:'uil uil-adjust-circle',
-        title:'Grow Your Business',
-        desc:`If the distribution of letters and 'words' is random, the reader will not be distracted from making.`
+        title:'Analysis',
+        desc:`Requirements elicitation, Product Development and Management and timeline projections.`
     },
     {
         icon:'uil uil-circuit',
-        title:'Drive More Sales',
-        desc:`If the distribution of letters and 'words' is random, the reader will not be distracted from making.`
+        title:'Consulting',
+        desc:`Guide your own teams to success through Just-In-Time Knowledge Transfer and Senior Management presentations.`
     },
     {
         icon:'uil uil-fire',
-        title:'Handled By Expert',
-        desc:`If the distribution of letters and 'words' is random, the reader will not be distracted from making.`
+        title:'Architecture & Design',
+        desc:`Use state of the technology design in getting your solution and framework for you platform, app, AI custom model or agents mapped out.`
     },
     {
         icon:'uil uil-flower',
-        title:'Discussion For Idea',
-        desc:`If the distribution of letters and 'words' is random, the reader will not be distracted from making.`
+        title:'Development',
+        desc:`Lightening fast prototype development and production-ready code.`
     },
     {
         icon:'uil uil-shopping-basket',
-        title:'Increase Conversion',
-        desc:`If the distribution of letters and 'words' is random, the reader will not be distracted from making.`
+        title:'Testing',
+        desc:`AI Model behavior testing, end-to-end Agentic system testing. Cloud and UI/API testing.`
     },
     {
         icon:'uil uil-flip-h',
-        title:'Sales Growth Idea',
-        desc:`If the distribution of letters and 'words' is random, the reader will not be distracted from making.`
+        title:'Compliance',
+        desc:`Data Privacy (PI/HIPAA), AI specific regulatory, Industry and Business specific requirements.`
     },
 ]
 
